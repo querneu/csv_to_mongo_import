@@ -13,6 +13,12 @@ cadastros = database['cadastros']
 telefones = database['telefones']
 
 
+#TODO 
+# IDENTIFICAR OS ARQUIVOS PELO NOME 
+#     SEPARAR AS CONFIGS DE IMPORTAÇÃO DO MONGO
+#     RODAR COMO SERVIÇO DO WINDOWS 
+#     CONFIGURAR A MOVIMENTAÇÃO DE ARQUIVOS NA PASTA
+
 
 path = "."
 go_recursively = True
